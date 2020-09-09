@@ -60,8 +60,8 @@
     "status",
   ]
   pruneopts = "UT"
-  revision = "39ef2aaf62df775b9c54a59957d113a0495cae73"
-  version = "v1.31.1"
+  revision = "5e8f83304c0563d1ba74db05fee83d9c18ab9a58"
+  version = "v1.32.0"
 
 [solve-meta]
   analyzer-name = "dep"
