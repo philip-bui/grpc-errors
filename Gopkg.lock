@@ -52,7 +52,7 @@
   revision = "5fe7a883aa19554f42890211544aa549836af7b7"
 
 [[projects]]
-  digest = "1:564e731a2a636a9a22e60e654c8a00ff69eb071ed1bd2f60c7eed19071567237"
+  digest = "1:68932b84deca8fb987936eaa6d278efc4a202c0a2b5b490a5a57efa1f1a63a89"
   name = "google.golang.org/grpc"
   packages = [
     "codes",
@@ -60,8 +60,8 @@
     "status",
   ]
   pruneopts = "UT"
-  revision = "577eb696279ea85069a02c9a4c2defafdab858c5"
-  version = "v1.35.0"
+  revision = "f74f0337644653eba7923908a4d7f79a4f3a267b"
+  version = "v1.36.0"
 
 [solve-meta]
   analyzer-name = "dep"
